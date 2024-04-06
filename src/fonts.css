@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Poppins:wght@400;600;700&family=Young+Serif&display=swap');
+.font-poppins-400 {
+  font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.font-poppins-600 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}   
+
+.font-poppins-700 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.font-young-serif {
+    font-family: 'Young Serif', serif;
+}
+
+.font-montserrat-300 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+
+.font-montserrat-400 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+
+.font-montserrat-500 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+
+
+.font-montserrat-600 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+
+.font-montserrat-700 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.font-montserrat-800 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+/* Example CSS to style Google Translate dropdown */
+.goog-te-combo {
+  font-size: 14px; 
+  margin: 5px;
+  padding: 5px;
+  border: none; /* Add a border */
+  border-radius: 2px; /* Add border radius */
+}
+
+.goog-te-combo-arrow {
+  display: none; 
+}
+
+.goog-te-menu-value {
+  padding: 4px; 
+}
+
+.goog-te-menu2-item {
+  font-size: 14px; 
+}
