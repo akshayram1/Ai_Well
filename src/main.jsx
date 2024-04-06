@@ -15,7 +15,7 @@ import Login from "./components/auth/loginPage/LoginForm.jsx";
 import RegisterForm from "./components/auth/signupPage/RegisterForm.jsx";
 // import { I18nextProvider } from "react-i18next";
 // import {i18next} from "./i18n.js" // Import your i18n configuration file
-// import { Suspense } from "react";
+
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
