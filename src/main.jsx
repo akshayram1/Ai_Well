@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import App from "./App.jsx";
 import "./index.css";
 import { BrowserRouter as Router } from "react-router-dom";
-import Navbar from "./components/homePage/Navbar.jsx";
+import Navbar from "./components/navbarSection/navbar.jsx";
 import Footer from "./components/footerSection/footer.jsx";
 import { Routes, Route } from "react-router-dom";
 import PredictionPage from "./components/predictionPage/Prediction.jsx";
